@@ -4,8 +4,8 @@ import TerraImg from '../images/Terra.png';
 import MarteImg from '../images/Marte.png';
 import JupiterImg from '../images/Jupiter.png';
 import SaturnoImg from '../images/Saturno.png';
-import Uranoimg from '../images/Urano.png';
-import Netunoimg from '../images/Netuno.png';
+import UranoImg from '../images/Urano.png';
+import NetunoImg from '../images/Netuno.png';
 
 const Planets = [
   { name: 'Mercúrio', image: MercurioImg },
@@ -14,8 +14,8 @@ const Planets = [
   { name: 'Marte', image: MarteImg },
   { name: 'Júpiter', image: JupiterImg },
   { name: 'Saturno', image: SaturnoImg },
-  { name: 'Urano', image: Uranoimg },
-  { name: 'Netuno', image: Netunoimg },
+  { name: 'Urano', image: UranoImg },
+  { name: 'Netuno', image: NetunoImg },
 ];
 
 export default Planets;
